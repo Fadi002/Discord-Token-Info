@@ -1,6 +1,14 @@
 -----
 ### <p align="center">DTI</p>
 
+
+<br><br>
+
+<p align="center">
+<img src="https://media.discordapp.net/attachments/960160330749734982/1010694144953417778/nice.png", width="500", height="500">
+</p>
+
+
 <br><br>
 <p align="center">
 <strong> Discord Token Info (DTI) its just a tool to get all informations like (Servers, Friends, etc .... )
