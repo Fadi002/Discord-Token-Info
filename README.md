@@ -3,7 +3,7 @@
 
 
 <br><br>
-d
+
 <p align="center">
 <img src="https://media.discordapp.net/attachments/960160330749734982/1010694144953417778/nice.png", width="500", height="500">
 </p>
